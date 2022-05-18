@@ -1,0 +1,82 @@
+body {
+    background-color:white; 
+}
+.page{
+    width: 1005px;
+    font-family: 'source sans Pro', calibri, Tahoma, sans-serif;
+    font-size: 16px;
+    margin: auto;
+    background-color:white;
+    
+}
+.infophoto{
+    height: 250px;
+    background-color: #ecf0f1;
+}
+.info{
+    float: right;
+    margin-top: 25px;
+    margin-right: 210px;
+}
+.photo{
+    float: left;
+    margin-left: 30px;
+    background-color: white;
+    margin-top: -220px;
+    width: 180px;
+    height: 180px;
+}
+.im{ 
+    width: 180px;                                          
+    height: 180px;
+    border-radius: 100px;
+}
+#nom {
+    font-size: 40px;
+} 
+.Prem-block{
+    margin-top: 30px;
+    margin-bottom: 35px;
+    border-color: #ecf0f1;
+    border-style: solid;
+}
+.block1-droite {
+    margin-left: 300px;
+    color: aqua;
+    font-size: 15px;
+}
+.block1-gauche {
+    float: left;
+    padding-left: 30px;
+    margin-top: -210px;
+    font-size: 15px;
+}
+h2 {
+    font-size: 40px;
+    background-color: #ecf0f1;
+    padding-left: 30px;
+    padding-top: 10px;
+    height: 70px;
+    margin-top: -2px;
+}
+.Deuxm-block{
+    font-size: 15px;
+    margin-top: 30px;
+    margin-bottom: 35px;
+    border-color: #ecf0f1;
+    border-style: solid;
+}
+.block1 {
+    padding-left: 30px;
+    margin-top: -20px;
+}
+.block2 {
+    margin-top: -30px;
+    font-size: 30px;
+}
+#block1-gauche-sub{
+    line-height: 15px;
+}
+#block1-droite-sub{
+    line-height: 15px;
+}
